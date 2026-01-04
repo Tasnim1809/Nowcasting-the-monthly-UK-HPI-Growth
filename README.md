@@ -7,7 +7,7 @@ The UK HPI suffers from a fundamental limitation of a substantial publication de
 2. Macroeconomic predictors: Bank Rate, Mortgage Rate, Mortgage Approval, Inflation Rate, Unemployment Rate, Average Earnings, Consumer Confidence Index, Construction Cost Index
 3. High-Frequency predictors: Google Trends search indices, GDELT news sentiment index
 All the variables have been aggregated to a monthly frequency.
-The link to the datasets can be found here: https://drive.google.com/drive/folders/1Lj4xNLBr9AhJ01EHzi_FzrLR5AYk0Lq9?usp=sharing
+The link to the datasets can be found here: https://drive.google.com/drive/folders/1d6ATixigVlxfTZA8u_zpTlaasrfCY3_4?usp=sharing
 # REPOSITORY STRUCTURE
 The notebooks have been numbered to reflect the order of execution. 
 ## Data Preparation
