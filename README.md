@@ -1,7 +1,7 @@
 # Nowcasting-the-monthly-UK-HPI-Growth
 This repository contains the code and analysis for my MSc Research Project on the topic: "Nowcasting of UK House Prices using High-Frequency Data and Machine Learning Models". 
 # PROJECT OBJECTIVE
-The UK HPI suffers from a fundamental limitation of a substantial publication delay of approximately seven weeks for each month's figure. This project aims to reduce this publication delay though the development of a robust nowcasting framework. The project uses a wide arrary of machine learning models, along with high-frequency data sources, such as Google Trends search indices and GDELT news sentiment index and conventional macroeconomic predictors in a rolling window framework to generate timely estimates of HPI growth each month. 
+The UK HPI suffers from a fundamental limitation of a substantial publication delay of approximately seven weeks for each month's figure. This project aims to reduce this publication delay through the development of a robust nowcasting framework. The project uses a wide array of machine learning models, along with high-frequency data sources, such as Google Trends search indices and GDELT news sentiment index and conventional macroeconomic predictors in a rolling window framework to generate timely estimates of HPI growth each month. 
 # DATA SOURCES
 1. Official UK House Price Index
 2. Macroeconomic predictors: Bank Rate, Mortgage Rate, Mortgage Approval, Inflation Rate, Unemployment Rate, Average Earnings, Consumer Confidence Index, Construction Cost Index
