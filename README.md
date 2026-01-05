@@ -14,17 +14,17 @@ The notebooks have been numbered to reflect the order of execution.
 **01. Cleaning_Macro_variables_and_target_variable.ipynb** 
 This cleans the eight macroeconomic variables and prepares the target variable: HPI
 
-**02. Google_Trends_Data_Extraction_and_Processing.ipynb**  
-This file extracts, aggregates, and constructs the five theme-based Google Trend indices.
-
-**03. Merge_1(_GT_keywords_+_HPI_+_macro_variables).ipynb**  
-This file merges the macroeconomic predictors and HPI data with the Google Trend indices.
-
-**04. GDELT_Data_Extraction_and_Processing.ipynb**  
+**02. GDELT_Data_Extraction_and_Processing.ipynb**  
 This file extracts, aggregates, and constructs the GDELT news sentiment index.
 
+**03. Google_Trends_Data_Extraction_and_Processing.ipynb**  
+This file extracts, aggregates, and constructs the five theme-based Google Trend indices.
+
+**04. Merge_1(_GT_keywords_+_HPI_+_macro_variables).ipynb**  
+This file merges the macroeconomic predictors and HPI data with the Google Trend indices.
+
 **05. Merge_2(GDELT+_GT_+_HPI+_macrovariables).ipynb** 
-This file combines the already merged file developed in Point 3 with the GDELT news sentiment index to produce the final dataset called the "Master file". This is a regional panel dataset containing the target variable, macroeconomic and high-frequency indicators.
+This file combines the already merged file developed in Point 4 with the GDELT news sentiment index to produce the final dataset called the "Master file". This is a regional panel dataset containing the target variable, macroeconomic and high-frequency indicators.
 
 ## Exploratory Analysis, Preprocessing, and Modelling
 **06. MODIFIED_Data_Preprocessing,_Exploratory_analyses_and_Modelling.ipynb** 
